@@ -4,7 +4,7 @@ This is building on from the basic Python CRM management tool.
 
 Focusing on OOP I have integrated the program to manage data via MySql
 
-The program will now store multiple projects on a local MySql server
+The program will now store multiple projects and client data on a local MySql server 
 
 Open projects can be editied via the program
 
